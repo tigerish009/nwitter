@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import { dbService } from 'fBase';
+import { dbService } from 'fbase';
 
 const Home = ({ userObj }) => {
 
